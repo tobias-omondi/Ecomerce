@@ -9,9 +9,9 @@ const Footer = () => {
     <footer className="section-p1" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div className="col">
         <h4>Contact</h4>
-        <p><strong>Address :</strong> J#214 Gulshan View</p>
-        <p><strong>Phone :</strong> +924678342524</p>
-        <p><strong>Hours :</strong> 12:00:00</p>
+        <p><strong>Address :</strong> J#2 OG view</p>
+        <p><strong>Phone :</strong> +254 741041880</p>
+        <p><strong>Hours :</strong> 24:00:00</p>
         <div className="followUs">
           <div className="icon">
             <FaFacebook className="i fab fa-facebook " />
@@ -49,7 +49,7 @@ const Footer = () => {
       </div>
 
       <div className="copyright">
-        <p>@ 2024 ZAHID React Ui  E-COMMERCE-TEMPLATE</p>
+        <p>@ 2024 OG React Ui  E-COMMERCE-TEMPLATE</p>
       </div>
 
       <BackToTopButton />
